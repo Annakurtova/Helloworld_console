@@ -1,0 +1,15 @@
+/Users/admin/Documents/GB it/c#/example_001/bin/Debug/net6.0/example_001
+/Users/admin/Documents/GB it/c#/example_001/bin/Debug/net6.0/example_001.deps.json
+/Users/admin/Documents/GB it/c#/example_001/bin/Debug/net6.0/example_001.runtimeconfig.json
+/Users/admin/Documents/GB it/c#/example_001/bin/Debug/net6.0/example_001.dll
+/Users/admin/Documents/GB it/c#/example_001/bin/Debug/net6.0/example_001.pdb
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.csproj.AssemblyReference.cache
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.AssemblyInfoInputs.cache
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.AssemblyInfo.cs
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.dll
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/refint/example_001.dll
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.pdb
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/example_001.genruntimeconfig.cache
+/Users/admin/Documents/GB it/c#/example_001/obj/Debug/net6.0/ref/example_001.dll
